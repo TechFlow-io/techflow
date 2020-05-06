@@ -3177,10 +3177,16 @@ figcaption {
 }
 
 .background-img.img1 {
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
+  background-image: url('../images/bank-note.svg');
   background-position: 0px 0px;
   background-size: 17px;
   opacity: 0.2;
+  background-size: inherit;
+}
+
+.background-img.img2 {
+  background-image: url('../images/circuit-board.svg') !important;
+  background-size: contain;
 }
 
 .background-img.img1.align-right {
