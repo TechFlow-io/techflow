@@ -617,7 +617,7 @@ figcaption {
 }
 
 .section.is-header.bg-accent-dark.has-bg-img.position-relative {
-  background-image: url('../images/services_header.jpg');
+  background-image: url('../images/header-image.jpg');
   background-position: 47vw 128px;
   background-size: 1020px;
 }
