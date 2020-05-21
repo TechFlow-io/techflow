@@ -623,7 +623,7 @@ figcaption {
 }
 
 .section.is-header.bg-accent-dark.has-bg-img.img-blog {
-  background-image: url('https://via.placeholder.com/1000x600.png?text=IMAGE');
+  background-image: url('../images/careers-header.png');
   background-position: 47vw 128px;
   background-size: contain;
 }
